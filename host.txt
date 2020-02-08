@@ -1,9 +1,56 @@
+##############################
+# Don't Remove or Change these 4 Lines
 127.0.0.1	localhost
 ::1	localhost
 ::1	ip6-localhost
 ::1	ip6-loopback
-
-127.0.0.1 .qq.com
-127.0.0.1 youtube.com
-127.0.0.1 google.com
-127.0.0.1 qq.com
+# Important 4 lines ended
+##############################
+# WhiteLists with Original IPs
+119.28.243.66 ig-us-sdkapi.igamecj.com
+119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+119.28.242.15 lobby.igamecj.com
+119.28.147.30 krlobby.igamecj.com
+150.109.200.70 twlobby.igamecj.com
+150.109.35.246 vnglobby.igamecj.com
+150.109.35.246 vnlobby.igamecj.com
+49.51.66.167 na.apps.game.qq.com
+101.226.76.164 api.voice.gcloud.qq.com
+49.51.37.253 us.voice.gcloudcs.com
+49.51.82.48 bs.voice.gcloudcs.com
+49.51.153.41 de.voice.gcloudcs.com
+107.155.6.231 vn.voice.gcloudcs.com
+107.155.20.212 ae.voice.gcloudcs.com
+107.155.26.155 my.voice.gcloudcs.com
+119.28.103.231 id.voice.gcloudcs.com
+119.28.101.124 sg.voice.gcloudcs.com
+119.28.147.27 kr.voice.gcloudcs.com
+124.156.62.222 in.voice.gcloudcs.com
+128.1.35.174 th.voice.gcloudcs.com
+161.202.254.23 jp.voice.gcloudcs.com
+162.62.16.231 ru.voice.gcloudcs.com
+169.57.134.219 br.voice.gcloudcs.com
+192.254.86.86 tw.voice.gcloudcs.com
+203.205.219.49 cn.voice.gcloudcs.com
+203.205.219.148 hk.voice.gcloudcs.com
+# Add more Whitelist if it important
+##############################
+# BlackLists with Wildcard
+127.0.0.1 .gcloudcs.com # No need to add another host of gcloudcs
+127.0.0.1 .igamecj.com # No need to add another host of igamecj
+127.0.0.1 .pubgameshowtime.com # No need to add another host of pubgameshowtime
+127.0.0.1 .qcloud.com # No need to add another host of qcloud
+127.0.0.1 .qq.com # No need to add another host of qq
+# All hosts of qq, gcloudcs, igamecj, qcloud and pubgameshowtime blocked in 5 lines
+# Add more Wildcard if it Necessary
+##############################
+# This hosts for example
+# Based on Tutorials of mine @TDOhex
+# Don't change to Credit
+# Don't steal Hard Works
+# Don't use in /system/etc/hosts
+# Virtual Hosts(VPN) of x-falcon is Required
+# https://t.me/TDOhex/22
+# Active with x-falcon and check Ping Results
+##############################
