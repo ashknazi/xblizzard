@@ -4,10 +4,7 @@
 ::1	ip6-loopback
 
 101.226.76.164 api.voice.gcloud.qq.com
-49.51.37.253 us.voice.gcloudcs.com
-49.51.82.48 bs.voice.gcloudcs.com
 49.51.153.41 de.voice.gcloudcs.com
-107.155.6.231 vn.voice.gcloudcs.com
 127.0.0.1 www.youtube.com
 127.0.0.1 filecdn.igamecj.com
 127.0.0.1 tencentgames.helpshift.com
@@ -35,11 +32,14 @@
 127.0.0.1 .pubgameshowtime.com
 127.0.0.1 .qcloud.com
 127.0.0.1 .qq.com
-127.0.0.1 .tencent.com
+127.0.0.1 .helpshift.com
+127.0.0.1 .proximabeta.com
+
 
 127.0.0.1 *.gcloudcs.com
 127.0.0.1 *.igamecj.com
 127.0.0.1 *.pubgameshowtime.com
 127.0.0.1 *.qcloud.com
 127.0.0.1 *.qq.com
-127.0.0.1 *.tencent.com
+127.0.0.1 *.helpshift.com
+127.0.0.1 *.proximabeta.com
